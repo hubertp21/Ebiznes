@@ -10,7 +10,7 @@ Zadanie 2 Scala
 
 ✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/hubertp21/PlayScalaApp/commit/39ec7eb26d24a7d8e2b0161b41844234abd24990)
 
-✅ 3.5 wymaganie 2 [Link do commita 2]()
+✅ 3.5 wymaganie 2 [Link do commita 2](https://github.com/hubertp21/PlayScalaApp/commit/6313bfeeca6f251cb6d0c6dcdb61b224cd5cf645)
 
 [Kod + Nagranie](https://github.com/hubertp21/PlayScalaApp)
 
