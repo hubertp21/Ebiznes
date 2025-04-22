@@ -30,6 +30,14 @@ Zadanie 5 Scala + React
 
 ✅ 3.0, 3.5, 4.0 wymagania 1, 2, 3(Łatwiej było to wrzucić w 1 commit) [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/f054b6bba4cce1bfb31f6ea3187371be67ad179b)
 
-[Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop)
+[Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop) - plik FULLSTACK
+
+Zadanie 5 Scala + React
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/05b4f62918a8cc099fe6857761943f5e6385da7c)
+
+✅ 3.5 wymaganie 2 [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/7151764cb0f92a9170dbfb67542d5e3d047e35c6)
+
+[Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop) - plik TEST
 
 
