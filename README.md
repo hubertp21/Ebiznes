@@ -25,3 +25,11 @@ Zadanie 4 Golang
 ✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/hubertp21/EchoGoApp/commit/4afeab96a472883c30f30e4861e978b46e507c7a)
 
 [Kod + Nagranie](https://github.com/hubertp21/EchoGoApp)
+
+Zadanie 5 Scala + React
+
+✅ 3.0, 3.5, 4.0 wymagania 1, 2, 3(Łatwiej było to wrzucić w 1 commit) [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/f054b6bba4cce1bfb31f6ea3187371be67ad179b)
+
+[Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop)
+
+
