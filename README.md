@@ -28,16 +28,24 @@ Zadanie 4 Golang
 
 Zadanie 5 Scala + React
 
-✅ 3.0, 3.5, 4.0 wymagania 1, 2, 3(Łatwiej było to wrzucić w 1 commit) [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/f054b6bba4cce1bfb31f6ea3187371be67ad179b)
+✅ 3.0, 3.5, 4.0 wymagania 1, 2, 3(Łatwiej było to wrzucić w 1 commit) [Link do commita](https://github.com/hubertp21/ScalaReactShop/commit/f054b6bba4cce1bfb31f6ea3187371be67ad179b)
 
 [Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop) - plik FULLSTACK
 
-Zadanie 5 Scala + React
+Zadanie 6 Scala + React
 
 ✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/05b4f62918a8cc099fe6857761943f5e6385da7c)
 
-✅ 3.5 wymaganie 2 [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/7151764cb0f92a9170dbfb67542d5e3d047e35c6)
+✅ 3.5 wymaganie 2 [Link do commita 2](https://github.com/hubertp21/ScalaReactShop/commit/7151764cb0f92a9170dbfb67542d5e3d047e35c6)
 
 [Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop) - plik TEST
+
+Zadanie 7 Sonar
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/hubertp21/ScalaReactShop/commit/4ddee454d8d0276a0357437525399c4fd2d3ce65)
+
+✅ 3.5, 4.0, 4.5 wymagania 2, 3 i 4(błędów w kodzie było za mało, tylko 1 bug) [Link do commita 2](https://github.com/hubertp21/ScalaReactShop/commit/77fefa10a58642a5b12f44014dae91ff049ccc2d)
+
+[Kod + Nagranie](https://github.com/hubertp21/ScalaReactShop) - plik README w katalogu backend, pokazuje quality gate z linkiem do projektu
 
 
